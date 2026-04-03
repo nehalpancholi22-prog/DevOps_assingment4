@@ -1,6 +1,4 @@
 [
-    {"name": "item1"},
-    {"name": "item2"},
-    {"name": "item3"},
-    {"name": "item4"}
+    {"name": "main_item1"},
+    {"name": "main_item2"}
 ]
